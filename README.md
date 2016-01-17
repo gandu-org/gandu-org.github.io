@@ -8,4 +8,4 @@
 
 ## Products
 - Rime (https://rime.co)
-- Swatantra (https://swatantra-app.github.io)
+- Swatantra (https://swatantra-org.github.io)
