@@ -2,8 +2,8 @@
 
 ## For SALE
 This domain is for sale. For details Contact:
-- **Shubhajit Saha** ([@suvozit](https://rime.co/@suvozit))
-- **Girish Nayak** ([@girish](https://rime.co/@girish))
+- **Shubhajit Saha** ([@suvozit](http://rime.co/@suvozit))
+- **Girish Nayak** ([@girish](http://rime.co/@girish))
 
 ## Not for sale `Products`
 - [Rime](http://rime.co)
