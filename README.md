@@ -14,6 +14,8 @@ This domain is for sale. For details Contact:
 - **Shubhajit Saha** ([@suvozit](http://suvozit.com))
 - **Girish Nayak** ([@girish](http://illusionist.me))
 
+Expires On March 22, 2017 [Who.is](http://who.is/whois/gandu.org)
+
 ## Other Domains *Not* for sale
 - [Rime.co](http://rime.co)
 - [Rime.social](http://rime.social)
@@ -22,9 +24,6 @@ This domain is for sale. For details Contact:
 
 ## Wishlist
 - [Swatantra.org](http://swatantra.org)
-
-## [Who.is](http://who.is/whois/gandu.org)
-Expires On March 22, 2017
 
 ## Social `#gandu`
 [facebook](https://www.facebook.com/search/top/?q=%23gandu),
