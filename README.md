@@ -14,7 +14,7 @@ This domain is for sale. For details Contact:
 - **Shubhajit Saha** ([@suvozit](http://suvozit.com))
 - **Girish Nayak** ([@girish](http://illusionist.me))
 
-## Other Domains **Not** for sale
+## Other Domains <u>Not</u> for sale
 - [Rime.co](http://rime.co)
 - [Rime.social](http://rime.social)
 - [Rime.emial](http://rime.email)
