@@ -1,11 +1,10 @@
-# GANDU `ASSHOLE`
+# গান্ডু *GANDU* (ASSHOLE, LOSER)
 
-![](images/e342b9ec931a86aecc56e46464622777.jpg)
+## For SALE
+This domain is for sale. For details Contact:
+- **Shubhajit Saha** ([@suvozit](https://rime.co/@suvozit))
+- **Girish Nayak** ([@girish](https://rime.co/@girish))
 
-## Team Gandu
-- [Shubhajit Saha **@suvozit**](https://rime.co/@suvozit)
-- [Girish Nayak **@girish**](https://rime.co/@girish)
-
-## Products
-- Rime (https://rime.co)
-- Swatantra (https://swatantra-org.github.io)
+## Not for sale `Products`
+- [Rime](http://rime.co)
+- [Swatantra](http://swatantra-org.github.io)
