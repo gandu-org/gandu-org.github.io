@@ -1,6 +1,6 @@
 # Gandu.org
 
-![](./images/Untitled-1-01.png)
+![](./images/Logo-01.png)
 
 A discontinued domain from [Swatantra](https://swatantraorg.github.io/)
 
