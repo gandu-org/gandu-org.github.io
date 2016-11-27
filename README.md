@@ -1,4 +1,4 @@
-# Gandu.org
+# Gandu
 
 ![](./images/Logo-01.png)
 
